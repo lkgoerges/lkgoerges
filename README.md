@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+## 💻 Specs
+
+AMD Ryzen 9 7950X  
+MSI RTX 4090  
+128GB DDR5 (in this economy o.o)  
+3TB SSD + 24TB NAS  
+  
+DT 770 Pro  
+Shure SM7B  
+Logitech G502X  
+Corsair K95 RGB Platinum  
+Samsung Odyssey Neo G95NC  
+
 <!--
 **lkgoerges/lkgoerges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

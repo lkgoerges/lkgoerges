@@ -1,4 +1,8 @@
 ## Hi there 👋
+Software Engineer from Germany.
+
+## 🌐 Socials
+[YouTube Gaming Channel](https://www.youtube.com/@LiooRyuuguu)  
 
 
 ## 💻 Specs

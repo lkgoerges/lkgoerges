@@ -18,6 +18,18 @@ Logitech G502X
 Corsair K95 RGB Platinum  
 Samsung Odyssey Neo G95NC  
 
+## 🌎 Contries been to
+
+- Germany
+- Croatia
+- Bosnia and Herzegovina
+- The Netherlands
+- The USA
+- France
+- Japan
+- Egypt
+  
+
 <!--
 **lkgoerges/lkgoerges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
